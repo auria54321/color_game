@@ -69,3 +69,13 @@ button:hover {
 	display: inline-block;
 	width: 20%;
 }
+
+@media screen and (max-width:786px) {
+	#colorPicked {
+		font-size: 1.5em;
+	}
+
+	h1 {
+		font-size: 1.5rem;
+	}
+}
